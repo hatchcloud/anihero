@@ -23,7 +23,11 @@ export default function Home() {
 
   return (
     <main>
-      <div className="background--custom">
+      
+      <div className='absolute h-screen flex items-center text-black text-8xl font-bold max-w-[900px] p-10  '>
+      Let's turn ideas into awesome digital products!
+      </div>
+      <div className="background--custom absolute">
         <canvas id="canvas" />
       </div>
     </main>
