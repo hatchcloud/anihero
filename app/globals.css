@@ -45,7 +45,7 @@ canvas#canvas {
   z-index: -1;
   position: absolute;
   width: 100%;
-  height: 60%;
+  height: 100%;
   transform: rotate(0deg) scale(2) translateY(0%);
   --gradient-color-1: #c3e4ff; 
   --gradient-color-2: #6ec3f4; 
